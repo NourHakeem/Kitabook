@@ -10,13 +10,13 @@ function Topnav() {
   return (
     <Navbar expand="lg"  className="bg-body-tertiary navbar-custom ">
       <Container fluid>
-        <a class="navbar-brand custom" href="#">
+        <a className="navbar-brand custom" href="#">
           <div className="logoimg"></div>
           {/* <img
             src="../images/kitabook-logo.png"
             width="30"
             height="30"
-            class="d-inline-block align-top"
+            className="d-inline-block align-top"
             alt=""
           /> */}
         </a>

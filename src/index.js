@@ -12,9 +12,9 @@ const root = createRoot(rootElement);
 root.render(
   <StrictMode>
     <Router>
-    <App />
+      <App/>
   </Router>
-  </StrictMode>,
+  </StrictMode>
 );
 
 reportWebVitals();

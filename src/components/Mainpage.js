@@ -9,7 +9,7 @@ import GoogleFonts, { GoogleFontsProps } from "react-google-fonts";
 import Aboutus from "./Aboutus";
 // import Slogan from "./Slogan";
 
-const Mainpage = () => {
+const   Mainpage = () => {
   return (
     <>
       <div className="mainpagecontainer">
